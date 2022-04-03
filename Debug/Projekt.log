@@ -1,0 +1,12 @@
+﻿  CGAIndividual.cpp
+  CGAOptimizer.cpp
+X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Projekt\CGAOptimizer.cpp(23,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Projekt\CGAOptimizer.cpp(43,29): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Projekt\CGAOptimizer.cpp(78,30): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Projekt\CGAOptimizer.cpp(86,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CMax3SatProblem.cpp
+X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Projekt\CMax3SatProblem.cpp(120,34): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Projekt\CMax3SatProblem.cpp(120,77): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Main.cpp
+  Generowanie kodu...
+  Projekt.vcxproj -> X:\STUDIA\Techniki Efektywnego Programowania\Projekt\Projekt\Debug\Projekt.exe
